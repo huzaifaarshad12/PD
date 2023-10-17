@@ -13,5 +13,5 @@ cout<<"       *                              *    "<<endl;
 cout<<"         *                           * "<<endl;
 cout<<"           *                       *    "<<endl;
 cout<<"              *********************   "<<endl;
-cout<<"           Welcome  to foody application" <<endl;
+cout<<"           Welcome  to foods application" <<endl;
 }
